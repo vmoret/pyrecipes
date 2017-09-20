@@ -1,5 +1,5 @@
 """Defines package version"""
-version_info = (0, 1, 0, 'final', 2)
+version_info = (0, 1, 0, 'final', 3)
 
 _specifier_ = {'alpha': 'a', 'beta': 'b', 'candidate': 'rc', 'final': ''}
 
