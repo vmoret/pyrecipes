@@ -18,7 +18,5 @@ setup(
     author='Vincent Moret',
     author_email='moret.vincent@gmail.com',
     url='https://github.com/vmoret/pyrecipes',
-    install_requires=[
-        'requests'
-    ]
+    install_requires=[]
 )
